@@ -13,7 +13,7 @@
     "react",
     "webpack"
   ],
-  "author": "Oscar Barajas <oscar@gndx.dev>",
+  "author": "Platzi class",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "7.15.0",
